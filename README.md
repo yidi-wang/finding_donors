@@ -16,3 +16,6 @@ This project uses the following software and Python libraries:
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
+## Data
+
+The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find this paper online, with the original dataset hosted on UCI.

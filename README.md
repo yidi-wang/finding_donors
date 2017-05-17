@@ -1,6 +1,4 @@
-# Finding_Donors
-
-Supervised Learning
+# Finding Donors with Supervised Learning
 
 Project: Finding Donors for CharityML
 

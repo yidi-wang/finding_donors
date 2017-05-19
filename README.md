@@ -12,7 +12,7 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 This project uses the following software and Python libraries:
 
-- [Python 2.7](https://www.python.org/download/releases/2.7/)
+* [Python 2.7](https://www.python.org/download/releases/2.7/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
